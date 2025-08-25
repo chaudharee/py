@@ -1,5 +1,5 @@
 # py
-## Data Structures of Python
+## Python -- "yay!"
 
 `print(" Name : Manish Chaudhary ")` 
 `print(" Roll no. : 081BEL043 ")`
